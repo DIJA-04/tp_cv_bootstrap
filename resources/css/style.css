@@ -1,0 +1,38 @@
+.lightZone {
+	background-color: #DCE3F5;  
+	color: #0A1438;              
+}
+
+.darkZone {
+	background-color: #0A1438;  
+	color: #DCE3F5;             
+}
+
+.lightZone h1 {
+	border-bottom: 2px solid #0A1438;
+	font-size: 38px;
+}
+
+.darkZone h1 {
+	border-bottom: 2px solid #DCE3F5;
+	font-size: 38px;
+}
+
+.lightZone section section h1 {
+	border: none;
+	font-size: 20px;
+}
+
+@font-face {
+	font-family: "Sansation";
+	src: url('Sansation-Regular.ttf');
+}
+
+header span {
+	font-family: "Sansation";
+	font-size: 38px;
+}
+
+.container {
+	border: 2px solid #0A1438;
+}
